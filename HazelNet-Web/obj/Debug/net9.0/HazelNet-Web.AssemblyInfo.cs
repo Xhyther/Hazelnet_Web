@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("`HazelNet-Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72a09a0d7f2a1538ff3f923dc2da4287999d231b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8920cc4f64769ab9913e95b57b18ddb01e896f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("`HazelNet-Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("`HazelNet-Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
