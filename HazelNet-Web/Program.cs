@@ -1,5 +1,5 @@
 using MudBlazor.Services;
-using HazelNet_Web.Components;
+using HazelNet_Web.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
